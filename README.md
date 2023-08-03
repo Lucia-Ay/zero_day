@@ -1,4 +1,3 @@
-#Vagrant
-###Using a virtual machine
+#Using a virtual machine
 *vagrant
 *virtualBox
